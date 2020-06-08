@@ -1,8 +1,8 @@
-﻿Name,Ring,Quadrant,Description
-Gauge,Asess,Languages&Frameworks,Gauge is an open source test automation framework that takes the pain out of acceptance testing. Gauge tests are in markdown which makes writing and maintaining tests easier. Reusable specifications and robust refactoring reduces duplication. Less code and readable specifications means less time spent on maintaining the test suite.
-React Native,Asess,Languages&Frameworks,"React Native combines the best parts of native development with React, a best-in-class JavaScript library for building user interfaces.
+﻿name,ring,quadrant,isNew,description
+Gauge,Asess,languages & frameworks,FALSE,Gauge is an open source test automation framework that takes the pain out of acceptance testing. Gauge tests are in markdown which makes writing and maintaining tests easier. Reusable specifications and robust refactoring reduces duplication. Less code and readable specifications means less time spent on maintaining the test suite.
+React Native,Asess,languages & frameworks,FALSE,"React Native combines the best parts of native development with React, a best-in-class JavaScript library for building user interfaces.
 Use a little—or a lot. You can use React Native today in your existing Android and iOS projects or you can create a whole new app from scratch."
-OKRs,Adopt,Techniques,"https://www.thoughtworks.com/insights/blog/objectives-and-key-results-continuously-improve-using-okr-method
+OKRs,Adopt,techniques,FALSE,"https://www.thoughtworks.com/insights/blog/objectives-and-key-results-continuously-improve-using-okr-method
 "
-Automated Dailies,Trial,Techniques,Meet at daily to share what's really important. Write-up on a wall or slack channel everything else
-Microsoft Teams,Trial,Platforms,Communication Platform
+Automated Dailies,Trial,techniques,TRUE,Meet at daily to share what's really important. Write-up on a wall or slack channel everything else
+Microsoft Teams,Trial,platforms,TRUE,Communication Platform
